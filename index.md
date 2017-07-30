@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Carta Branca
 
 You can use the [editor on GitHub](https://github.com/chile1900/cartabranca/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
